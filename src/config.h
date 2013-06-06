@@ -1,0 +1,1 @@
+/home/allie/dwm/config.h
